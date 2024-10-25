@@ -1,6 +1,7 @@
 # Vertical-Navigation
 **In this attractive vertical menu, something surprising happens when two of the rows are hovered over. ✨🪄✨**
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![project view2](https://github.com/user-attachments/assets/0f8d8e33-32a6-4a4a-985b-e32679ed51f7)
+
 
 
 - [Demo Project](https://rahimitabarshiva.github.io/Vertical-Navigation/)
